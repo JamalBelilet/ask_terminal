@@ -2,4 +2,6 @@ name: ask_terminal
 version: 0.0.1
 description: library to create CLI wizards
 author: Djamaleddine Belilet <fd_belilet@esi.dz>
-homepage: https://github.com/jamalbelilet/ask_terminal
+homepage: https://github.com/JamalBelilet/ask_terminal
+environment: 
+  sdk: '<3.0.0'
