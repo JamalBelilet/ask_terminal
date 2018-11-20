@@ -1,7 +1,7 @@
 
 ## Ask Terminal _v0.0.1_
 
-### Library to create CLI wizards
+### Library to create CLI wizards based on binary questions (yes/no), and mutliple choice questions with custom values
 
         import 'package:ask_terminal/ask_terminal.dart';
 
