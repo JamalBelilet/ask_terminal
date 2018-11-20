@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.1.2] - 2018-11-20
+### Changed
+- dartfmt ask_terminal.dart
+- dartfmt src/option.dart
+
 ## [0.1.1] - 2018-11-20
 ### Added
 - changelog.md [CHANGELOG.md](https://github.com/JamalBelilet/ask_terminal/blob/master/CHANGELOG.md).
