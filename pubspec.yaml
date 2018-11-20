@@ -1,0 +1,5 @@
+name: ask_terminal
+version: 0.0.1
+description: library to create CLI wizards
+author: Djamaleddine Belilet <fd_belilet@esi.dz>
+homepage: https://github.com/jamalbelilet/ask_terminal
