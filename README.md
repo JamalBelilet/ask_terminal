@@ -1,5 +1,5 @@
 
-## Ask Terminal _v0.1.0_
+## Ask Terminal _v0.1.1_
 
 ### Library to create CLI wizards based on binary questions (yes/no), and mutliple choice questions with custom values
 

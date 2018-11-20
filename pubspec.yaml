@@ -1,5 +1,5 @@
 name: ask_terminal
-version: 0.1.0
+version: 0.1.1
 description: Library to create CLI wizards based on binary questions (yes/no), and mutliple choice questions with custom values
 author: Djamaleddine Belilet <fd_belilet@esi.dz>
 homepage: https://github.com/JamalBelilet/ask_terminal
